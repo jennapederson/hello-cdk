@@ -250,18 +250,6 @@
     "@aws-cdk/core" "1.54.0"
     constructs "^3.0.2"
 
-"@aws-cdk/aws-sns-subscriptions@1.54.0":
-  version "1.54.0"
-  resolved "https://registry.yarnpkg.com/@aws-cdk/aws-sns-subscriptions/-/aws-sns-subscriptions-1.54.0.tgz#34045abb1f06ef5f0953463f4243a09f1d5c1407"
-  integrity sha512-iizYWPCRbRcPu9IvZTprybFAyBYz/bxJ9qY8YNg13zei4DvmE0KSK7To6ljSY0xXiFjJt4BNVI8BsYrXYOMYrg==
-  dependencies:
-    "@aws-cdk/aws-iam" "1.54.0"
-    "@aws-cdk/aws-lambda" "1.54.0"
-    "@aws-cdk/aws-sns" "1.54.0"
-    "@aws-cdk/aws-sqs" "1.54.0"
-    "@aws-cdk/core" "1.54.0"
-    constructs "^3.0.2"
-
 "@aws-cdk/aws-sns@1.54.0":
   version "1.54.0"
   resolved "https://registry.yarnpkg.com/@aws-cdk/aws-sns/-/aws-sns-1.54.0.tgz#05b58d112649c36565abfb4b4b3aa741eaa11c7f"
@@ -4723,9 +4711,9 @@ xregexp@2.0.0:
   integrity sha1-UqY+VsoLhKfzpfPWGHLxJq16WUM=
 
 y18n@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/y18n/-/y18n-4.0.0.tgz#95ef94f85ecc81d007c264e190a120f0a3c8566b"
-  integrity sha512-r9S/ZyXu/Xu9q1tYlpsLIsa3EeLXXk0VwlxqTcFRfg9EhMW+17kbt9G0NrgCmhGb5vT2hyhJZLfDGx+7+5Uj/w==
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-4.0.1.tgz#8db2b83c31c5d75099bb890b23f3094891e247d4"
+  integrity sha512-wNcy4NvjMYL8gogWWYAO7ZFWFfHcbdbE57tZO8e4cbpj8tfUcwrwqSl3ad8HxpYWCdXcJUCeKKZS62Av1affwQ==
 
 yallist@^3.0.2:
   version "3.1.1"
